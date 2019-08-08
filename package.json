@@ -1,0 +1,29 @@
+{
+  "name": "iframe-videocontrols-volume-slider-issue",
+  "version": "1.0.0",
+  "description": "Sample to show iframe video volume control issue",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cksachdev/iframe-videocontrols-volume-slider-issue.git"
+  },
+  "keywords": [
+    "iframe",
+    "video",
+    "accessibility",
+    "volume",
+    "controls"
+  ],
+  "author": "Chetan Sachdev",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/cksachdev/iframe-videocontrols-volume-slider-issue/issues"
+  },
+  "homepage": "https://github.com/cksachdev/iframe-videocontrols-volume-slider-issue#readme",
+  "devDependencies": {
+    "gh-pages": "^2.1.1"
+  }
+}
